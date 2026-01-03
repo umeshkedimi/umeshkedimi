@@ -1,46 +1,54 @@
 # Umesh Kedimi
 
-### Senior Software Engineer | Backend & GenAI | System Architecture  
-Python • Golang • Distributed Systems • Reliability Engineering
+Python Subject Matter Expert (SME) | Senior Software Engineer  
+Backend & AI Platform Engineering
 
 ---
 
-## Summary
-Senior engineer with strong experience in building reliable, scalable backend and AI-driven systems.  
-Focused on production-quality engineering, clear architecture, and real-world problem solving.
+## About
+
+I’m a Senior Software Engineer and **Python Subject Matter Expert (SME)** with deep experience building **reliable, secure, production-grade backend and platform systems**.
+
+I specialize in using Python to design and own systems where **correctness, clarity, and operational safety are non-negotiable**. My work focuses on building services and platforms that behave predictably under real-world production constraints.
 
 ---
 
-## Current Work
-- Building **AI Incident Commander (AIC)** — AI-assisted incident management and reliability automation platform.
-- Designing scalable backend and AI infrastructure using Python and Golang.
-- Implementing architecture standards suitable for high-availability, real-time environments.
+## What I Work On
 
----
-
-## Core Expertise
-- **Backend Engineering** — REST / FastAPI / gRPC / Microservices  
-- **Systems & Reliability** — Observability • Fault Tolerance • Incident Workflows  
-- **Distributed Systems** — scalability, concurrency, and performance principles  
-- **GenAI Engineering** — LLM integration, AI workflows, production readiness
+- Python backend engineering (async systems, data modeling, validation-heavy services)
+- Scalable API platforms and service architectures
+- System and database design with clear ownership and failure-mode awareness
+- Reliability, observability, and production readiness
+- Security-sensitive and infrastructure-adjacent systems
 
 ---
 
 ## Engineering Principles
-- Production-first mindset  
-- Architecture and clarity over complexity  
-- Reliability, scale, and maintainability as primary priorities  
-- Measurable engineering outcomes
+
+- Correctness over cleverness
+- Explicit design over hidden magic
+- Clear boundaries and ownership
+- Production behavior matters more than local success
+- AI accelerates execution, not responsibility
 
 ---
 
-## Current Focus Areas
-- AI infrastructure & reliability automation  
-- Large-scale backend system design  
-- Robust engineering foundations and delivery discipline  
+## Tech Focus
+
+- Python (core language, async, typing, standard library)
+- Backend & platform engineering
+- API systems and data-intensive services
+- Observability, reliability, and operational safety
 
 ---
 
-## Contact
-- LinkedIn: https://www.linkedin.com/in/umesh-kedimi-2473b287/
-- Open to engineering leadership conversations, backend/AI system roles, and meaningful infrastructure initiatives.
+## Current Direction
+
+Building and refining **production-grade Python systems**, with a long-term focus on platform reliability, system correctness, and AI-assisted infrastructure.
+
+---
+
+If you’re reviewing this profile, assume:
+- I value clean architecture over quick hacks
+- I take ownership of systems beyond just writing code
+- I use AI as a tool, not a substitute for judgment
