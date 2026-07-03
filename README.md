@@ -1,54 +1,137 @@
-# Umesh Kedimi
+# Hi, I'm Umesh Kedimi 👋
 
-Python Subject Matter Expert (SME) | Senior Software Engineer  
-Backend & AI Platform Engineering
-
----
-
-## About
-
-I’m a Senior Software Engineer and **Python Subject Matter Expert (SME)** with deep experience building **reliable, secure, production-grade backend and platform systems**.
-
-I specialize in using Python to design and own systems where **correctness, clarity, and operational safety are non-negotiable**. My work focuses on building services and platforms that behave predictably under real-world production constraints.
+**AI Platform Engineer specializing in Agentic AI**
+**Senior Software Engineer | Python | Backend & Distributed Systems**
 
 ---
 
-## What I Work On
+## About Me
 
-- Python backend engineering (async systems, data modeling, validation-heavy services)
-- Scalable API platforms and service architectures
-- System and database design with clear ownership and failure-mode awareness
-- Reliability, observability, and production readiness
-- Security-sensitive and infrastructure-adjacent systems
+I'm a Senior Software Engineer with **9+ years of experience** building production-grade backend systems and platforms.
+
+My expertise lies in designing reliable APIs, distributed systems, and AI infrastructure that can be trusted in production. Today my primary focus is building **Agentic AI platforms**—systems that orchestrate LLMs, tools, workflows, and humans safely and reliably at scale.
+
+I believe AI products succeed because of strong engineering, not just powerful models.
+
+---
+
+## Current Focus
+
+* Agentic AI Platforms
+* AI Infrastructure Engineering
+* Multi-Agent Systems
+* Workflow Orchestration
+* LLM Application Architecture
+* Production AI Systems
+* Backend Platform Engineering
+
+---
+
+## Tech Stack
+
+### Languages
+
+* Python
+* SQL
+
+### Backend
+
+* FastAPI
+* Pydantic
+* SQLModel
+* AsyncIO
+* REST APIs
+
+### AI & LLM
+
+* OpenAI
+* Anthropic
+* Google Gemini
+* MCP (Model Context Protocol)
+* RAG
+* Vector Databases
+* Embeddings
+* AI Tool Calling
+* Structured Outputs
+
+### Orchestration
+
+* Temporal
+* Background Workers
+* Event-Driven Systems
+* Async Processing
+
+### Data
+
+* PostgreSQL
+* Redis
+
+### Infrastructure
+
+* Docker
+* Kubernetes
+* Linux
+* GitHub Actions
+
+### Observability
+
+* Prometheus
+* Grafana
+* Logging
+* Metrics
+* Tracing
 
 ---
 
 ## Engineering Principles
 
-- Correctness over cleverness
-- Explicit design over hidden magic
-- Clear boundaries and ownership
-- Production behavior matters more than local success
-- AI accelerates execution, not responsibility
+* Build for production, not demonstrations.
+* Reliability is a feature.
+* Explicit architecture beats hidden complexity.
+* Simple systems scale better than clever ones.
+* AI should augment engineering—not replace engineering judgment.
+* Every system should be observable, testable, and maintainable.
 
 ---
 
-## Tech Focus
+## What I'm Building
 
-- Python (core language, async, typing, standard library)
-- Backend & platform engineering
-- API systems and data-intensive services
-- Observability, reliability, and operational safety
+I'm currently focused on building production-ready AI infrastructure, including:
+
+* Agentic AI platforms
+* Multi-agent orchestration systems
+* AI gateways and platform services
+* LLM-powered backend applications
+* Workflow automation with Temporal
+* Reliable API platforms
+* Secure AI infrastructure
 
 ---
 
-## Current Direction
+## Career Direction
 
-Building and refining **production-grade Python systems**, with a long-term focus on platform reliability, system correctness, and AI-assisted infrastructure.
+My long-term goal is to become a **Staff-level AI Platform Engineer**, designing the infrastructure that powers enterprise-scale Agentic AI applications.
+
+I'm particularly interested in roles involving:
+
+* AI Platform Engineering
+* Agentic AI
+* Forward Deployed Engineering
+* AI Infrastructure
+* Distributed Systems
+* Backend Platform Engineering
 
 ---
 
-If you’re reviewing this profile, assume:
-- I value clean architecture over quick hacks
-- I take ownership of systems beyond just writing code
-- I use AI as a tool, not a substitute for judgment
+## Let's Connect
+
+I'm always interested in discussing:
+
+* Python
+* Agentic AI
+* AI Platform Engineering
+* Distributed Systems
+* Backend Architecture
+* Production AI
+
+> **Building the infrastructure that makes Agentic AI reliable, scalable, and production-ready.**
